@@ -11,7 +11,9 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 (ဖောင့်နှင့်ကီးဘုတ်ပါဝင်သော All-in-One Installer ဖြစ်ပါတယ်)
 
 [Download All in One Setup][1]
+
 [Download All-in-One Zip file][3]
+
 [Download User Manual PDF file][2]
 [1]:http://www.unicodetoday.org/downloads/All-in-One-Setup-5.2.exe
 [2]:http://www.unicodetoday.org/downloads/Pyidaungsu_Font_User_Manual_05.pdf
