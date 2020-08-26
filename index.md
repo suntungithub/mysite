@@ -23,6 +23,7 @@ guid: http://localhost/wordpress/?page_id=5781
  
 ## Huawei, Honor
  * EMUI version 4.x အတွက်
+ 
 	1. [[Light.hwt file]](http://localhost/wordpress/downloads/Light.hwt) ကိုရယူ၍ ဖုန်း၏ Internal Storage >> HWThemes folder သို့ကူးထည့်ပေးပါ
 	2. Theme app ကိုသွားပါ။ ထိုမှတဆင့် Me (သို့) Mine ကိုနှိပ်၍ Light theme ကိုရွေး‌ပေးပါ။ Setting >> System >> Language and Region တွင် Region ကို Myanmar (Burma) ပြောင်းလို့ရပါက ပြောင်းထားပါ
  * Settings >> Language and input >> Language >> Add Language မှတဆင့် Burmese (Unicode) သို့မဟုတ် Burmese (Myanmar) ကိုပြောင်းပေးပါ
