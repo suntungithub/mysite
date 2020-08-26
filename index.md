@@ -7,6 +7,7 @@ layout: page
 guid: http://localhost/wordpress/?page_id=5781
 ---
 
+
 ယူနီကုဒ်စနစ်သို့ ပြောင်းလဲရန် အဆင့်(၃)ဆင့် လုပ်ရပါမယ်:
 1. ဖောင့်စနစ်ပြောင်းရပါမယ် 
 2. ကီးဘုတ်လက်ကွက် ထည့်သွင်းရပါမယ် 
@@ -86,7 +87,6 @@ guid: http://localhost/wordpress/?page_id=5781
   1. ဖောင့် menu ရှိ ဖောင့်ဖိုင်သီးသန့် အောက်တွင် OS နှင့် Office version ရွေးချယ်ကာ ဖောင့်ကို download ရယူ၍ထည့်သွင်းပါ
   2. ကီးဘုတ် menu ရှိ Keyman သို့မဟုတ် Keymagic ကိုရယူ၍ ထည့်သွင်းပေးပါ
   3. [Keyman ထည့်နည်း ဆက်လက်ကြည့်ရှုရန်](http://localhost/wordpress/?p=2405)
-  
 <div class="wp-block-group">
   <div class="wp-block-group__inner-container">
   </div>
