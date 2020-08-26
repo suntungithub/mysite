@@ -13,7 +13,7 @@ guid: http://localhost/wordpress/?page_id=5781
 [စာရိုက်နည်း Unicode\_Typing\_Guide.jpeg image ပုံယူရန်](http://localhost/wordpress/downloads/Unicode_Typing_Guide.jpg)
 <details>
 <summary> Samsung, Sony</summary>
-
+List
   - Setting >> Display >> Font >> Default ပြန်ထားပေးပါ
   - Setting >> Language & Input ကတဆင့် English(US) ဖြစ်စေ English(UK) ဖြစ်စေ ရွေးချယ်ပေးပါ
   - Language ၂ မျိုး တပြိုင်တည်းရွေးချယ်ပေးနိုင်သော ဖုန်းများတွင် English ကိုပထမ၊ ဗမာ(ယူနီကုဒ်)ကို ဒုတိယ ထား၍အသုံးပြုနိုင်ပါတယ်။
