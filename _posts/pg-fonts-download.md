@@ -20,34 +20,29 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 ## ဖောင့်ဖိုင်သီးသန့် ရယူရန်
 
 ### Windows 7 ( Office ဗားရှင်းအားလုံး ) သို့မဟုတ် Windows 8, 10 ( Office 2010 )
-	[Pyidaungsu-1.8.3_Regular.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Regular.ttf)
-	[Pyidaungsu-1.8.3_Bold.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Bold.ttf)
-	[Pyidaungsu-1.8.3_Numbers.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Numbers.ttf)
-	<br>
+[Pyidaungsu-1.8.3_Regular.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Regular.ttf)
+[Pyidaungsu-1.8.3_Bold.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Bold.ttf)
+[Pyidaungsu-1.8.3_Numbers.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Numbers.ttf)
 ### Windows 8, 10 ( Office 2013 အထက်နှင့် Office 365 )
-	[Pyidaungsu-2.5.3_Regular.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Regular.ttf)
-	[Pyidaungsu-2.5.3_Bold.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Bold.ttf)
-	[Pyidaungsu-2.5.3_Numbers.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Numbers.ttf)
-	[Myanmar3-2018.ttf ဖောင့် ](http://www.unicodetoday.org/downloads/Myanmar3-2018.ttf)
-
+[Pyidaungsu-2.5.3_Regular.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Regular.ttf)
+[Pyidaungsu-2.5.3_Bold.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Bold.ttf)
+[Pyidaungsu-2.5.3_Numbers.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Numbers.ttf)
+[Myanmar3-2018.ttf ဖောင့် ](http://www.unicodetoday.org/downloads/Myanmar3-2018.ttf)
 > မှတ်ချက် - ရွေးချယ်ရမည့် Version များကိုမသိရှိပါက All in One Setup File ကိုရယူပါ။ 
 
-
 ## Adobe CS3, 4, 5, 6
-	[Pyidaungsu-Book-1.8.3_Regular.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Regular.ttf)
-	[Pyidaungsu-Book-1.8.3_Bold ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Bold.ttf)
-> [ဖောင့်ထည့်သွင်းနည်းကြည့်ရန်](http://localhost/wordpress/?p=2937)
-
+[Pyidaungsu-Book-1.8.3_Regular.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Regular.ttf)
+[Pyidaungsu-Book-1.8.3_Bold ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Bold.ttf)
+>[ဖောင့်ထည့်သွင်းနည်းကြည့်ရန်](http://localhost/wordpress/?p=2937)
 
 ## iPhone, iPad အတွက် ဖောင့်ပရိုဖိုင်
-	[Pyidaungsu-2.4.mobileconfig](http://localhost/unicodetoday/downloads/Pyidaungsu-2.4.mobileconfig)
-	[Pyidaungsu-1.3.mobileconfig (iOS 9နှင့်အောက်)](http://localhost/unicodetoday/downloads/Pyidaungsu-1.3.mobileconfig)
-	[ZawDecode-2.1.mobileconfig](http://localhost/unicodetoday/downloads/ZawDecode-2.1.mobileconfig)
+[Pyidaungsu-2.4.mobileconfig](http://localhost/unicodetoday/downloads/Pyidaungsu-2.4.mobileconfig)
+[Pyidaungsu-1.3.mobileconfig (iOS 9နှင့်အောက်)](http://localhost/unicodetoday/downloads/Pyidaungsu-1.3.mobileconfig)
+[ZawDecode-2.1.mobileconfig](http://localhost/unicodetoday/downloads/ZawDecode-2.1.mobileconfig)
 
-	iPhone, iPad Safari Browser ကိုသုံး၍ ဒေါင်းပါ
+iPhone, iPad Safari Browser ကိုသုံး၍ ဒေါင်းပါ
 
 License
-
 Pyidaungsu is licensed according to the terms of the&nbsp;[SIL Open Font License](http://scripts.sil.org/OFL).
 
 <div class="wp-block-group">
