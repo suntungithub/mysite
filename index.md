@@ -12,7 +12,7 @@ guid: http://localhost/wordpress/?page_id=5781
 
 [စာရိုက်နည်း Unicode\_Typing\_Guide.jpeg image ပုံယူရန်](http://localhost/wordpress/downloads/Unicode_Typing_Guide.jpg)
 <details>
-<summary><h3> Samsung, Sony</h3></summary>
+<summary> Samsung, Sony</summary>
 
   * Setting >> Display >> Font >> Default ပြန်ထားပေးပါ
   * Setting >> Language & Input ကတဆင့် English(US) ဖြစ်စေ English(UK) ဖြစ်စေ ရွေးချယ်ပေးပါ
@@ -21,7 +21,7 @@ guid: http://localhost/wordpress/?page_id=5781
 </details>
 
 <details>
-<summary><h3>Huawei, Honor</h3></summary>
+<summary>Huawei, Honor</summary>
 
   * EMUI version 4.x အတွက်
   * (1)[[Light.hwt file]](http://localhost/wordpress/downloads/Light.hwt) ကိုရယူ၍ ဖုန်း၏ Internal Storage >> HWThemes folder သို့ကူးထည့်ပေးပါ
@@ -32,7 +32,7 @@ guid: http://localhost/wordpress/?page_id=5781
 </details> 
 
 <details>
-<summary><h3>Xiaomi (Mi Phone)</h3></summary>
+<summary>Xiaomi (Mi Phone)</summary>
 
   * Setting >> Display >> Font >> Mi Latting >> ရွေးပြီး Apply နှိပ်ပေးပါ
   * Setting >> Theme မှတဆင့် Find more နှိပ်၍ ညာဘက်အောက်ခြေရှိ လူပုံ (My Page) >> Font >> Mi Lanting (Default) ထားပေးပါ
@@ -41,7 +41,7 @@ guid: http://localhost/wordpress/?page_id=5781
 </details>
 
 <details>
-<summary><h3>OPPO, VIVO, RealMe</h3></summary>
+<summary>OPPO, VIVO, RealMe</summary>
 
   * Setting >> Language and input >> Langue >> ဗမာ(Myanmar) &#8211; ပြောင်းပေးပါ
   * Color OS 2, 3 Language ကို English ထား၍<a rel="noreferrer noopener" href="https://www.mmunifonts.com/2019/09/old-oppo-font.html" target="_blank">&nbsp;Old OPPO font</a>&nbsp;ထည့်ပါ
@@ -55,7 +55,7 @@ guid: http://localhost/wordpress/?page_id=5781
 </details>
 
 <details>
-<summary><h3>KENBO</h3></summary>
+<summary>KENBO</summary>
 
   * Model K6, K9, O61, B19
   * Setting >> System >> Language & Input >> Language >> Add a Language >> ဗမာ(မြန်မာ)ကိုရွေးပါ
@@ -66,7 +66,7 @@ guid: http://localhost/wordpress/?page_id=5781
 
 
 <details>
-<summary><h3>Meizu</h3></summary>
+<summary>Meizu</summary>
 
   * Root Access ရမှသာပြောင်းလဲနိုင်ပါတယ် ဗီဒီယိုဖိုင်ကြည့်ပါ
   * ဗီဒီယိုကြည့်ရန် − [[Meizu Unicode]](https://youtu.be/4JuIcl8wgyg)
@@ -75,7 +75,7 @@ guid: http://localhost/wordpress/?page_id=5781
 
 
 <details>
-<summary><h3>Mobile Keyboards</h3></summary>
+<summary>Mobile Keyboards</summary>
 
   * [Gboard Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en&fbclid=IwAR0vMj2KCsstq6lxMjMHYfFKncdYbZZPcPUbZMjA8mvwBmMB13FkRvNMONI)နှင့်[သွင်းနည်း/စာရိုက်နည်း]("http://localhost/wordpress/?p=2848)
   * [TTKeyboard](https://play.google.com/store/apps/details?id=com.myopenware.ttkeyboard.latin&fbclid=IwAR18Se6lRSQc9Li8tsSDQIq9HgS88QwUJtuaI4XEp4uw-IdF773foiT3x74) နှင့်[သွင်းနည်း/စာရိုက်နည်း](http://localhost/wordpress/?p=2848)
@@ -87,7 +87,7 @@ guid: http://localhost/wordpress/?page_id=5781
 
  
 <details>
-<summary><h3>iPhone, iPad</h3></summary>
+<summary>iPhone, iPad</summary>
 
   * [Video from Zaw Zaw Aung](https://youtu.be/MlrxTu99i_A)
   * [Video from NayZar Aung profile](https://www.facebook.com/Konayzar/videos/10208378960294277/UzpfSTEzMTM0MDU5MDU6MTAyMjAwNzYyNjE2Mzk1MDA)
@@ -99,7 +99,7 @@ guid: http://localhost/wordpress/?page_id=5781
 
  
 <details>
-<summary><h3>Converter (Android)</h3></summary>
+<summary>Converter (Android)</summary>
 
   * [MCF MUX](https://connectmux.mitcloud.com/)[အသုံးပြုပုံ](https://youtu.be/vjxl0idcz2k)
   * [UniZG](https://play.google.com/store/apps/details?id=com.justicecoder.unizg)
@@ -107,7 +107,7 @@ guid: http://localhost/wordpress/?page_id=5781
 </details> 
 
 <details>
-<summary><h3>Converter (iPhone, iPad)</h3></summary>
+<summary>Converter (iPhone, iPad)</summary>
 
   * [Pyaung](https://apps.apple.com/us/app/pyaung/id1039690192)ကွန်ဗာတာအောက်ခြေတွင် စာသား၊ ဖုန်းလိပ်စာ ပြောင်းရန် Menu ရှိပါသည်။
   * [Rabbit](https://apps.apple.com/us/app/rabbit-converter/id1032950289)
@@ -115,7 +115,7 @@ guid: http://localhost/wordpress/?page_id=5781
 </details> 
 
 <details>
-<summary><h3>Windows</h3></summary>
+<summary>Windows</summary>
 
   1. ဖောင့် menu ရှိ All-in-One installer ဖြင့် ဖောင့် နှင့် ကီးဘုတ် သွင်းပါ၊
   2. အသုံးပြုနည်း/ စာရိုက်နည်း တို့အတွက် User Manual pdf file ကိုရယူပါ
@@ -123,7 +123,7 @@ guid: http://localhost/wordpress/?page_id=5781
 </details> 
 
 <details>
-<summary><h3>Mac Apple</h3></summary>
+<summary>Mac Apple</summary>
 
   1. ဖောင့် menu ရှိ ဖောင့်ဖိုင်သီးသန့် အောက်တွင် OS နှင့် Office version ရွေးချယ်ကာ ဖောင့်ကို download ရယူ၍ထည့်သွင်းပါ
   2. ကီးဘုတ် menu ရှိ Keyman သို့မဟုတ် Keymagic ကိုရယူ၍ ထည့်သွင်းပေးပါ
