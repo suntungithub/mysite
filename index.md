@@ -16,18 +16,18 @@ guid: http://localhost/wordpress/?page_id=5781
 [စာရိုက်နည်း Unicode\_Typing\_Guide.jpeg image ပုံယူရန်](http://localhost/wordpress/downloads/Unicode_Typing_Guide.jpg)
 
 ## Samsung, Sony
-> * Setting >> Display >> Font >> Default ပြန်ထားပေးပါ
-> * Setting >> Language & Input ကတဆင့် English(US) ဖြစ်စေ English(UK) ဖြစ်စေ ရွေးချယ်ပေးပါ
-> * Language ၂ မျိုး တပြိုင်တည်းရွေးချယ်ပေးနိုင်သော ဖုန်းများတွင် English ကိုပထမ၊ ဗမာ(ယူနီကုဒ်)ကို ဒုတိယ ထား၍အသုံးပြုနိုင်ပါတယ်။
-> * ဗီဒီယိုကြည့်ရန် − [[Note 4]](https://youtu.be/ONfnNTfiyjA) [[Galaxy ]](https://www.facebook.com/SamsungMyanmar/videos/369951763951794/) [[Prime]](https://youtu.be/p-1NC63SQLI)
+ * Setting >> Display >> Font >> Default ပြန်ထားပေးပါ
+ * Setting >> Language & Input ကတဆင့် English(US) ဖြစ်စေ English(UK) ဖြစ်စေ ရွေးချယ်ပေးပါ
+ * Language ၂ မျိုး တပြိုင်တည်းရွေးချယ်ပေးနိုင်သော ဖုန်းများတွင် English ကိုပထမ၊ ဗမာ(ယူနီကုဒ်)ကို ဒုတိယ ထား၍အသုံးပြုနိုင်ပါတယ်။
+ * ဗီဒီယိုကြည့်ရန် − [[Note 4]](https://youtu.be/ONfnNTfiyjA) [[Galaxy ]](https://www.facebook.com/SamsungMyanmar/videos/369951763951794/) [[Prime]](https://youtu.be/p-1NC63SQLI)
  
 ## Huawei, Honor
-> * EMUI version 4.x အတွက်
+ * EMUI version 4.x အတွက်
  	1. [[Light.hwt file]](http://localhost/wordpress/downloads/Light.hwt) ကိုရယူ၍ ဖုန်း၏ Internal Storage >> HWThemes folder သို့ကူးထည့်ပေးပါ
 	2. Theme app ကိုသွားပါ။ ထိုမှတဆင့် Me (သို့) Mine ကိုနှိပ်၍ Light theme ကိုရွေး‌ပေးပါ။ Setting >> System >> Language and Region တွင် Region ကို Myanmar (Burma) ပြောင်းလို့ရပါက ပြောင်းထားပါ
-> * Settings >> Language and input >> Language >> Add Language မှတဆင့် Burmese (Unicode) သို့မဟုတ် Burmese (Myanmar) ကိုပြောင်းပေးပါ
-> * Settings >> Language and input >> Language >> တွင် Burmese (Unicode) ရွေးပေးပါ
-> * ဗီဒီယိုကြည့်ရန် − [[Nova 3e]](https://youtu.be/inNj8WbJYnY)[[Y5 Lite]](https://youtu.be/7V9_RH1We_s)
+ * Settings >> Language and input >> Language >> Add Language မှတဆင့် Burmese (Unicode) သို့မဟုတ် Burmese (Myanmar) ကိုပြောင်းပေးပါ
+ * Settings >> Language and input >> Language >> တွင် Burmese (Unicode) ရွေးပေးပါ
+ * ဗီဒီယိုကြည့်ရန် − [[Nova 3e]](https://youtu.be/inNj8WbJYnY)[[Y5 Lite]](https://youtu.be/7V9_RH1We_s)
  
 
 
