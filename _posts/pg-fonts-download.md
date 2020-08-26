@@ -1,38 +1,17 @@
 ---
 id: 5126
-title: Pyidaungsu Font Download
+title: Pyidaungsu Font Download ယူရန်
 date: 2019-04-17T22:18:20+00:00
 author: suntun
 layout: page
 guid: http://localhost/unicodetoday/?page_id=5126
-vsw_pmvw_video_source:
-  - YouTube
-vsw_pmvw_video_id:
-  - ""
-vsw_pmvw_video_width:
-  - ""
-vsw_pmvw_video_height:
-  - ""
-vsw_pmvw_video_caption:
-  - ""
-vsw_pmvw_video_autoplay:
-  - "0"
 ---
 Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပါတယ်။ အထောက်အပံ့ပြုထားသော ဘာသာများမှာ- ဗမာ, သက္ကတ/ပါဠိ, မွန်, ရှမ်း, စကောကရင်, ပိုးကရင်(အနောက်ပိုင်း), ပိုးကရင် (အရှေ့ပိုင်း), ပအိုဝ့်ကရင်, ကယား, အရှိုချင်း, ခန္တီးရှမ်း, Aiton & Phake, တိုင်းလျမ်ခေါ်ရှမ်းနီ, ရွှေပလောင်, ပလေးပလောင်, ရူမာည်းတအောင်း, စသည်တို့ဖြစ်သည်။
 
 (ဖောင့်နှင့်ကီးဘုတ်ပါဝင်သော All-in-One Installer ဖြစ်ပါတယ်)
 
-<div class="wp-block-buttons aligncenter">
-  <div class="wp-block-button">
-    <a class="wp-block-button__link has-vivid-cyan-blue-background-color has-background" href="http://www.unicodetoday.org/downloads/All-in-One-Setup-5.2.exe">Download All-in-One Setup</a>
-  </div>
-</div>
-
-<p class="has-text-align-center">
-  <a href="http://www.unicodetoday.org/downloads/Pyidaungsu_Font_User_Manual_05.pdf">Download User Manual PDF file</a>&nbsp;/&nbsp;<a href="http://www.unicodetoday.org/downloads/All-in-One_Pyidaungsu_Font.zip">Download All-in-One Zip file</a>
-</p>
-
-<hr class="wp-block-separator" />
+[Download All in One Setup](http://www.unicodetoday.org/downloads/All-in-One-Setup-5.2.exe)
+[Download User Manual PDF file](http://www.unicodetoday.org/downloads/Pyidaungsu_Font_User_Manual_05.pdf)  [Download All-in-One Zip file](http://www.unicodetoday.org/downloads/All-in-One_Pyidaungsu_Font.zip)
 
 ### ဖောင့်ဖိုင်သီးသန့် ရယူရန်
 

@@ -11,13 +11,14 @@ guid: http://localhost/wordpress/?page_id=5781
 ယူနီကုဒ်စနစ်ပြောင်းလဲပြီးပါက [Myanmar Wikipedia](href="https://my.wikipedia.org/wiki/ဗဟိုစာမျက်နှာ)သို့ဝင်ရောက်၍ အောင်မြင်မှုရမရကို ဝင်ရောက်စစ်ဆေးနိုင်ပါသည်။
 
 [စာရိုက်နည်း Unicode\_Typing\_Guide.jpeg image ပုံယူရန်](http://localhost/wordpress/downloads/Unicode_Typing_Guide.jpg)
-
-### Samsung, Sony
+<details>
+<summary>### Samsung, Sony</summary>
 
   * Setting >> Display >> Font >> Default ပြန်ထားပေးပါ
   * Setting >> Language & Input ကတဆင့် English(US) ဖြစ်စေ English(UK) ဖြစ်စေ ရွေးချယ်ပေးပါ
   * Language ၂ မျိုး တပြိုင်တည်းရွေးချယ်ပေးနိုင်သော ဖုန်းများတွင် English ကိုပထမ၊ ဗမာ(ယူနီကုဒ်)ကို ဒုတိယ ထား၍အသုံးပြုနိုင်ပါတယ်။
   * ဗီဒီယိုကြည့်ရန် − [[Note 4]](https://youtu.be/ONfnNTfiyjA) [[Galaxy ]](https://www.facebook.com/SamsungMyanmar/videos/369951763951794/) [[Prime]](https://youtu.be/p-1NC63SQLI)
+</details>
 
 ### Huawei, Honor
 
