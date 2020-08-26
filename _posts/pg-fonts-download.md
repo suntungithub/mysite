@@ -17,165 +17,34 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 [pdf]: http://www.unicodetoday.org/downloads/Pyidaungsu_Font_User_Manual_05.pdf
 
 
-### ဖောင့်ဖိုင်သီးသန့် ရယူရန်
+## ဖောင့်ဖိုင်သီးသန့် ရယူရန်
 
-အသုံးပြုလျှက်ရှိသော Windows OS နှင့် Office Version ကိုရွေးချယ်ပါက Font Download Links ကျလာမည်ဖြစ်ပါသည်။
+### Windows 7 ( Office ဗားရှင်းအားလုံး ) သို့မဟုတ် Windows 8, 10 ( Office 2010 )
+	1. [Pyidaungsu-1.8.3_Regular.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Regular.ttf)
+	2. [Pyidaungsu-1.8.3_Bold.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Bold.ttf)
+	3. [Pyidaungsu-1.8.3_Numbers.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Numbers.ttf)
+	<br>
+### Windows 8, 10 ( Office 2013 အထက်နှင့် Office 365 )
+	1. [Pyidaungsu-2.5.3_Regular.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Regular.ttf)
+	2. [Pyidaungsu-2.5.3_Bold.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Bold.ttf)
+	3. [Pyidaungsu-2.5.3_Numbers.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Numbers.ttf)
+	4. [Myanmar3-2018.ttf ဖောင့် ](http://www.unicodetoday.org/downloads/Myanmar3-2018.ttf)
 
-<div class="row">
-  <div class="col-sm-3">
-    <select id="opts1" class="form-control" onchange="showForm()"> <option value="0">Select Os</option> <option value="1">Windows 7</option> <option value="2">Windows 8, 10</option> <option value="3">Mac OSX</option> </select>
-  </div>
-  
-  <div class="col-sm-3">
-    <select id="opts2" class="form-control" onchange="showForm()"> <option value="0">Select Office</option> <option value="1">Office 2010 and older</option> <option value="2">Office 2013 and Above</option> </select>
-  </div>
-</div>
+> မှတ်ချက် - ရွေးချယ်ရမည့် Version များကိုမသိရှိပါက All in One Setup File ကိုရယူပါ။ 
 
-<div style="height: 100px;">
-  <div id="f1" style="display: none; padding: 10px;">
-    <div class="row">
-      <div class="col-sm-4">
-        1. <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Regular.ttf">Pyidaungsu-1.8.3_Regular.ttf ဖောင့်</a>
-      </div>
-      
-      <div class="col-sm-3">
-        <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Regular.ttf">Download</a>
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="col-sm-4">
-        2. <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Bold.ttf">Pyidaungsu-1.8.3_Bold.ttf ဖောင့်</a>
-      </div>
-      
-      <div class="col-sm-3">
-        <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Bold.ttf">Download</a>
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="col-sm-4">
-        3. <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Numbers.ttf">Pyidaungsu-1.8.3_Numbers.ttf ဖောင့်</a>
-      </div>
-      
-      <div class="col-sm-3">
-        <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-1.8.3_Numbers.ttf">Download</a>
-      </div>
-    </div>
-  </div>
-  
-  <div id="f2" style="display: none; padding: 10px;">
-    <div class="row">
-      <div class="col-sm-4">
-        1. <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Regular.ttf">Pyidaungsu-2.5.3_Regular.ttf ဖောင့်</a>
-      </div>
-      
-      <div class="col-sm-3">
-        <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Regular.ttf">Download</a>
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="col-sm-4">
-        2. <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Bold.ttf">Pyidaungsu-2.5.3_Bold.ttf ဖောင့်</a>
-      </div>
-      
-      <div class="col-sm-3">
-        <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Bold.ttf">Download</a>
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="col-sm-4">
-        3. <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Numbers.ttf">Pyidaungsu-2.5.3_Numbers.ttf ဖောင့်</a>
-      </div>
-      
-      <div class="col-sm-3">
-        <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-2.5.3_Numbers.ttf">Download</a>
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="col col-sm-4">
-        4. <a href="http://www.unicodetoday.org/downloads/Myanmar3-2018.ttf">Myanmar3-2018.ttf ဖောင့်</a>
-      </div>
-      
-      <div class="col-6 col-sm-3">
-        <a href="http://www.unicodetoday.org/downloads/Myanmar3-2018.ttf">Download</a>
-      </div>
-    </div>
-  </div>
-</div>
 
-ရွေးချယ်ရမည့် Version များကိုမသိရှိပါက Installer Setup File ကိုရယူနိုင်ပါသည်။
+## Adobe CS3, 4, 5, 6
+	1. [Pyidaungsu-Book-1.8.3_Regular.ttf ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Regular.ttf)
+	2. [Pyidaungsu-Book-1.8.3_Bold ဖောင့်](http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Bold.ttf)
+> [ဖောင့်ထည့်သွင်းနည်းကြည့်ရန်](http://localhost/wordpress/?p=2937)
 
-<div class="wp-block-buttons aligncenter">
-  <div class="wp-block-button is-style-fill">
-    <a class="wp-block-button__link has-vivid-cyan-blue-background-color has-background" href="http://www.unicodetoday.org/downloads/Pyidaugsu-Font-Setup-5.2.exe">Download Font Only Setup</a>
-  </div>
-</div>
 
-### Adobe CS3, 4, 5, 6
+## iPhone, iPad အတွက် ဖောင့်ပရိုဖိုင်
+	1. [Pyidaungsu-2.4.mobileconfig](http://localhost/unicodetoday/downloads/Pyidaungsu-2.4.mobileconfig)
+	2. [Pyidaungsu-1.3.mobileconfig (iOS 9နှင့်အောက်)](http://localhost/unicodetoday/downloads/Pyidaungsu-1.3.mobileconfig)
+	3. [ZawDecode-2.1.mobileconfig](http://localhost/unicodetoday/downloads/ZawDecode-2.1.mobileconfig)
 
-<div style="text-indent: 2em;">
-  <div class="row" style="font-size: 16px;">
-    <div class="col col-md-6">
-      1. <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Regular.ttf">Pyidaungsu-Book-1.8.3_Regular.ttf ဖောင့်</a>
-    </div>
-    
-    <div class="col-6 col-md-4">
-      <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Regular.ttf">Download</a>
-    </div>
-  </div>
-  
-  <div class="row" style="font-size: 16px;">
-    <div class="col col-md-6">
-      2. <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Bold.ttf">Pyidaungsu-Book-1.8.3_Bold ဖောင့်</a>
-    </div>
-    
-    <div class="col-6 col-md-4">
-      <a href="http://www.unicodetoday.org/downloads/Pyidaungsu-Book-1.8.3_Bold.ttf">Download</a>
-    </div>
-  </div>
-</div>
-
-<p class="has-text-align-center">
-  <a href="http://localhost/wordpress/?p=2937" target="_blank" rel="noreferrer noopener">ဖောင့်ထည့်သွင်းနည်းကြည့်ရန် </a>
-</p>
-
-### iPhone, iPad အတွက် ဖောင့်ပရိုဖိုင်
-
-<div style="text-indent: 2em;">
-  <div class="row" style="font-size: 16px;">
-    <div class="col col-md-6">
-      1. <a href="http://localhost/unicodetoday/downloads/Pyidaungsu-2.4.mobileconfig">Pyidaungsu-2.4.mobileconfig</a>
-    </div>
-    
-    <div class="col-6 col-md-4">
-      <a href="http://localhost/unicodetoday/downloads/Pyidaungsu-2.4.mobileconfig">Download</a>
-    </div>
-    
-    <div class="col col-md-6">
-      2. <a href="http://localhost/unicodetoday/downloads/Pyidaungsu-1.3.mobileconfig">Pyidaungsu-1.3.mobileconfig (iOS 9နှင့်အောက်)</a>
-    </div>
-    
-    <div class="col-6 col-md-4">
-      <a href="http://localhost/unicodetoday/downloads/Pyidaungsu-1.3.mobileconfig">Download</a>
-    </div>
-    
-    <div class="col col-md-6">
-      3. <a href="http://localhost/unicodetoday/downloads/ZawDecode-2.1.mobileconfig">ZawDecode-2.1.mobileconfig</a>
-    </div>
-    
-    <div class="col-6 col-md-4">
-      <a href="http://localhost/unicodetoday/downloads/ZawDecode-2.1.mobileconfig">Download</a>
-    </div>
-  </div>
-</div>
-
-<p class="has-text-align-center">
-  iPhone, iPad Safari Browser ကိုသုံး၍ ဒေါင်းပါ
-</p>
+	iPhone, iPad Safari Browser ကိုသုံး၍ ဒေါင်းပါ
 
 License
 
