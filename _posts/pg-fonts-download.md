@@ -41,7 +41,7 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 3. [ZawDecode-2.1.mobileconfig](http://localhost/unicodetoday/downloads/ZawDecode-2.1.mobileconfig)
 - iPhone, iPad Safari Browser ကိုသုံး၍ ဒေါင်းပါ
 
-###License
+### License
 Pyidaungsu is licensed according to the terms of the&nbsp;[SIL Open Font License](http://scripts.sil.org/OFL).
 
 <div class="wp-block-group">
