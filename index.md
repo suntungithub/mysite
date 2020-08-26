@@ -3,7 +3,7 @@ id: 5781
 title: ယူနီကုဒ် ‌ဖောင့်စနစ်ထည့်သွင်းနည်း
 date: 2020-08-26T05:12:49+00:00
 author: suntun
-layout: page
+layout: default
 guid: http://localhost/wordpress/?page_id=5781
 ---
 <br>
