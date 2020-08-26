@@ -13,11 +13,12 @@ guid: http://localhost/wordpress/?page_id=5781
 [စာရိုက်နည်း Unicode\_Typing\_Guide.jpeg image ပုံယူရန်](http://localhost/wordpress/downloads/Unicode_Typing_Guide.jpg)
 <details>
 <summary> Samsung, Sony</summary>
-List
-  1. Setting >> Display >> Font >> Default ပြန်ထားပေးပါ
-  - Setting >> Language & Input ကတဆင့် English(US) ဖြစ်စေ English(UK) ဖြစ်စေ ရွေးချယ်ပေးပါ
-  - Language ၂ မျိုး တပြိုင်တည်းရွေးချယ်ပေးနိုင်သော ဖုန်းများတွင် English ကိုပထမ၊ ဗမာ(ယူနီကုဒ်)ကို ဒုတိယ ထား၍အသုံးပြုနိုင်ပါတယ်။
-  - ဗီဒီယိုကြည့်ရန် − [[Note 4]](https://youtu.be/ONfnNTfiyjA) [[Galaxy ]](https://www.facebook.com/SamsungMyanmar/videos/369951763951794/) [[Prime]](https://youtu.be/p-1NC63SQLI)
+<ol>
+  <li>Setting >> Display >> Font >> Default ပြန်ထားပေးပါ</li>
+  <li>Setting >> Language & Input ကတဆင့် English(US) ဖြစ်စေ English(UK) ဖြစ်စေ ရွေးချယ်ပေးပါ</li>
+  <li>Language ၂ မျိုး တပြိုင်တည်းရွေးချယ်ပေးနိုင်သော ဖုန်းများတွင် English ကိုပထမ၊ ဗမာ(ယူနီကုဒ်)ကို ဒုတိယ ထား၍အသုံးပြုနိုင်ပါတယ်။</li>
+  <li>ဗီဒီယိုကြည့်ရန် − [[Note 4]](https://youtu.be/ONfnNTfiyjA) [[Galaxy ]](https://www.facebook.com/SamsungMyanmar/videos/369951763951794/) [[Prime]](https://youtu.be/p-1NC63SQLI)</li>
+</ol>  
 </details>
 
 <details>
