@@ -10,9 +10,7 @@ Pyidaungsu Font နှင့် Keyboard တပါတည်းပါဝင်ပ
 
 (ဖောင့်နှင့်ကီးဘုတ်ပါဝင်သော All-in-One Installer ဖြစ်ပါတယ်)
 
->>[Download All in One Setup][setup] သို့မဟုတ် [Download All-in-One Zip file][zip]
-
->>[Download User Manual PDF file][pdf]
+>[Download All in One Setup][setup] သို့မဟုတ် [Download All-in-One Zip file][zip] <br>[Download User Manual PDF file][pdf]
 
 [setup]: http://www.unicodetoday.org/downloads/All-in-One-Setup-5.2.exe
 [zip]: http://www.unicodetoday.org/downloads/All-in-One_Pyidaungsu_Font.zip
