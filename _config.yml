@@ -36,7 +36,7 @@ header_pages:
   - converters.md
   - guides.md
   - articles.md
-  - faqs.md
+  - faqs.mdd
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
