@@ -4,6 +4,7 @@ title: Converters Download
 date: 2019-02-15T12:27:37+00:00
 author: suntun
 layout: page
+permalink: /converters/
 guid: http://www.unicodetoday.org/?page_id=4364
 vsw_pmvw_video_source:
   - YouTube

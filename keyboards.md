@@ -4,6 +4,7 @@ title: Keyboards Download
 date: 2019-02-15T12:22:58+00:00
 author: suntun
 layout: page
+permalink: /pages/
 guid: http://www.unicodetoday.org/?page_id=4358
 vsw_pmvw_video_source:
   - YouTube

@@ -4,6 +4,7 @@ title: FAQs
 date: 2020-08-25T17:53:31+00:00
 author: suntun
 layout: page
+permalink: /faqs/
 guid: http://localhost/unicodetoday/?page_id=5653
 vsw_pmvw_video_source:
   - YouTube
