@@ -1,0 +1,23 @@
+- title: Fonts
+  url:  /pages/fonts.md
+- title: Keyboards
+  url:  /pages/keyboards.md
+- title: Converter
+  url:  /pages/converters.md 
+- title: Guides
+  url:  /pages/guide.md
+  sublinks:
+    - title: FAQs
+    - url:  /pages/faq.md
+    - title: separator
+    - title: Doc
+    - url:  /pages/docu.md
+- title: Articles
+  url:  /pages/articles.md
+    sublinks:
+    - title: FAQs
+    - url:  /pages/faq.md
+    - title: Doc
+    - url:  /pages/docu.md
+- title: FAQs
+  url:  /pages/faq.md
